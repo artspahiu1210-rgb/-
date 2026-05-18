@@ -93,11 +93,11 @@ function Home() {
             </div>
             <div className="flex items-center gap-4">
               <a 
-                href="tel:02012345678" 
+                href="tel:07768163818" 
                 className="hidden lg:flex items-center gap-2 text-sm font-bold bg-white/5 hover:bg-white/10 px-4 py-2 rounded-full transition-all border border-white/10"
               >
                 <span>📞</span>
-                020 1234 5678
+                07768 163818
               </a>
               <div className="flex gap-2">
                 <a 
@@ -134,7 +134,7 @@ function Home() {
 
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full py-20">
           <div className="max-w-3xl text-center md:text-left">
-            <div className="inline-flex items-center gap-2 bg-orange-500/20 border border-orange-500/30 text-orange-400 px-4 py-1.5 rounded-full text-[10px] font-black uppercase tracking-[0.2em] mb-8">
+            <div className="inline-flex items-center gap-2 bg-orange-500/20 border border-orange-500/30 text-orange-400 px-4 py-1.5 rounded-full text-[10px] font-black uppercase tracking-[0.2em]">
               Golders Green's Choice for Smash Burgers
             </div>
             <h1 className="text-6xl sm:text-8xl font-black mb-8 leading-[0.95] tracking-tighter">
@@ -148,7 +148,7 @@ function Home() {
             <div className="flex flex-col sm:flex-row gap-5">
               <a 
                 href="#menu" 
-                className="flex items-center justify-center gap-3 bg-orange-500 hover:bg-orange-600 text-black font-black py-5 px-10 rounded-2xl transition-all text-xl shadow-2xl shadow-orange-500/40"
+                className="flex items-center justify-center gap-3 bg-orange-500 hover:bg-orange-600 text-black font-black py-5 px-10 rounded-2xl transition-all text-xl shadow-2xl shadow-orange-500/50"
               >
                 View Our Menu
               </a>
@@ -284,7 +284,7 @@ function Home() {
                   </div>
                   <div>
                     <p className="font-black text-2xl tracking-tight mb-2 uppercase">Call Us</p>
-                    <a href="tel:02012345678" className="text-4xl font-black text-orange-500 hover:text-orange-400 transition-colors">020 1234 5678</a>
+                    <a href="tel:07768163818" className="text-4xl font-black text-orange-500 hover:text-orange-400 transition-colors">07768 163818</a>
                   </div>
                 </div>
               </div>
@@ -292,7 +292,7 @@ function Home() {
             
             <div className="h-full min-h-[400px] rounded-[3rem] overflow-hidden border border-white/5 grayscale hover:grayscale-0 transition-all duration-1000 shadow-2xl">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.123!2d-0.198!3d51.572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876107!2sGolders%20Green%20Rd%2C%20London!5e0!3m2!1sen!2suk!4v1234567890" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.123!2d-0.198!3d51.572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876107!2sGolders%20Green%20Rd%2C%20London"
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 
@@ -330,7 +330,7 @@ function Home() {
       {/* Mobile Sticky Bar */}
       <div className="md:hidden fixed bottom-8 left-6 right-6 z-50 flex gap-3">
         <a 
-          href="tel:02012345678" 
+          href="tel:07768163818" 
           className="w-16 flex flex-col items-center justify-center bg-black/90 backdrop-blur-2xl border border-white/10 text-white py-4 rounded-[1.5rem] shadow-2xl text-2xl"
         >
           📞
